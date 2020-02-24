@@ -1,0 +1,4 @@
+storePassword=vinicius
+keyPassword=vinicius
+keyAlias=key
+storeFile=C:\Users\vinic/key.jks
