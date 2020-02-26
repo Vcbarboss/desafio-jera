@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/desafio-jera.iml" filepath="$PROJECT_DIR$/.idea/desafio-jera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/desafio-jera-master.iml" filepath="$PROJECT_DIR$/.idea/desafio-jera-master.iml" />
     </modules>
   </component>
 </project>
